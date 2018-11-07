@@ -1,3 +1,4 @@
 aaaaaaa
 master add info
 resolve the conflict
+new branch
